@@ -1,0 +1,15 @@
+C:\Users\jmoreira\source\repos\Lista04-Metodos e Funcoes\Lista04-Ex03e04-ParImpar\bin\Debug\net6.0\Lista04-Ex03e04-ParImpar.exe
+C:\Users\jmoreira\source\repos\Lista04-Metodos e Funcoes\Lista04-Ex03e04-ParImpar\bin\Debug\net6.0\Lista04-Ex03e04-ParImpar.deps.json
+C:\Users\jmoreira\source\repos\Lista04-Metodos e Funcoes\Lista04-Ex03e04-ParImpar\bin\Debug\net6.0\Lista04-Ex03e04-ParImpar.runtimeconfig.json
+C:\Users\jmoreira\source\repos\Lista04-Metodos e Funcoes\Lista04-Ex03e04-ParImpar\bin\Debug\net6.0\Lista04-Ex03e04-ParImpar.dll
+C:\Users\jmoreira\source\repos\Lista04-Metodos e Funcoes\Lista04-Ex03e04-ParImpar\bin\Debug\net6.0\Lista04-Ex03e04-ParImpar.pdb
+C:\Users\jmoreira\source\repos\Lista04-Metodos e Funcoes\Lista04-Ex03e04-ParImpar\obj\Debug\net6.0\Lista04-Ex03e04-ParImpar.csproj.AssemblyReference.cache
+C:\Users\jmoreira\source\repos\Lista04-Metodos e Funcoes\Lista04-Ex03e04-ParImpar\obj\Debug\net6.0\Lista04-Ex03e04-ParImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmoreira\source\repos\Lista04-Metodos e Funcoes\Lista04-Ex03e04-ParImpar\obj\Debug\net6.0\Lista04-Ex03e04-ParImpar.AssemblyInfoInputs.cache
+C:\Users\jmoreira\source\repos\Lista04-Metodos e Funcoes\Lista04-Ex03e04-ParImpar\obj\Debug\net6.0\Lista04-Ex03e04-ParImpar.AssemblyInfo.cs
+C:\Users\jmoreira\source\repos\Lista04-Metodos e Funcoes\Lista04-Ex03e04-ParImpar\obj\Debug\net6.0\Lista04-Ex03e04-ParImpar.csproj.CoreCompileInputs.cache
+C:\Users\jmoreira\source\repos\Lista04-Metodos e Funcoes\Lista04-Ex03e04-ParImpar\obj\Debug\net6.0\Lista04-Ex03e04-ParImpar.dll
+C:\Users\jmoreira\source\repos\Lista04-Metodos e Funcoes\Lista04-Ex03e04-ParImpar\obj\Debug\net6.0\refint\Lista04-Ex03e04-ParImpar.dll
+C:\Users\jmoreira\source\repos\Lista04-Metodos e Funcoes\Lista04-Ex03e04-ParImpar\obj\Debug\net6.0\Lista04-Ex03e04-ParImpar.pdb
+C:\Users\jmoreira\source\repos\Lista04-Metodos e Funcoes\Lista04-Ex03e04-ParImpar\obj\Debug\net6.0\Lista04-Ex03e04-ParImpar.genruntimeconfig.cache
+C:\Users\jmoreira\source\repos\Lista04-Metodos e Funcoes\Lista04-Ex03e04-ParImpar\obj\Debug\net6.0\ref\Lista04-Ex03e04-ParImpar.dll

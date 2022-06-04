@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jmoreira\\source\\repos\\Lista04-Metodos e Funcoes\\Lista04-Ex03e04-ParImpar\\Lista04-Ex03e04-ParImpar.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jmoreira\\source\\repos\\Lista04-Metodos e Funcoes\\Lista04-Ex03e04-ParImpar\\Lista04-Ex03e04-ParImpar.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jmoreira\\source\\repos\\Lista04-Metodos e Funcoes\\Lista04-Ex03e04-ParImpar\\Lista04-Ex03e04-ParImpar.csproj",
+        "projectName": "Lista04-Ex03e04-ParImpar",
+        "projectPath": "C:\\Users\\jmoreira\\source\\repos\\Lista04-Metodos e Funcoes\\Lista04-Ex03e04-ParImpar\\Lista04-Ex03e04-ParImpar.csproj",
+        "packagesPath": "C:\\Users\\jmoreira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jmoreira\\source\\repos\\Lista04-Metodos e Funcoes\\Lista04-Ex03e04-ParImpar\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jmoreira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
