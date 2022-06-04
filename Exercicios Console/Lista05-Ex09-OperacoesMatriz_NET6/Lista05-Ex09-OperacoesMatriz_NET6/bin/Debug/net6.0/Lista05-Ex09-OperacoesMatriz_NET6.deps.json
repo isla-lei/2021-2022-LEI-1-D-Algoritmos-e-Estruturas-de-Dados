@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lista05-Ex09-OperacoesMatriz_NET6/1.0.0": {
+        "runtime": {
+          "Lista05-Ex09-OperacoesMatriz_NET6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lista05-Ex09-OperacoesMatriz_NET6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
