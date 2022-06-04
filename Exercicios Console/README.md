@@ -1,3 +1,3 @@
 
-# LEI - Algoritmos e Estruturas de Dados
-Exercicios Console Aplication
+# Exercicios Console Aplication
+LEI - Algoritmos e Estruturas de Dados
