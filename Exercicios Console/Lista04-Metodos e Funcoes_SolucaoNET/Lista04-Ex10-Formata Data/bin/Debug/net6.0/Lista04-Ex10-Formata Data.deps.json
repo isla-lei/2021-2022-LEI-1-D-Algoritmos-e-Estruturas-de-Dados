@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lista04-Ex10-Formata Data/1.0.0": {
+        "runtime": {
+          "Lista04-Ex10-Formata Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lista04-Ex10-Formata Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\jmoreira\source\repos\Lista04-Metodos e Funcoes\Lista04-Ex09-Volume\bin\Debug\net6.0\Lista04-Ex09-Volume.exe
+C:\Users\jmoreira\source\repos\Lista04-Metodos e Funcoes\Lista04-Ex09-Volume\bin\Debug\net6.0\Lista04-Ex09-Volume.deps.json
+C:\Users\jmoreira\source\repos\Lista04-Metodos e Funcoes\Lista04-Ex09-Volume\bin\Debug\net6.0\Lista04-Ex09-Volume.runtimeconfig.json
+C:\Users\jmoreira\source\repos\Lista04-Metodos e Funcoes\Lista04-Ex09-Volume\bin\Debug\net6.0\Lista04-Ex09-Volume.dll
+C:\Users\jmoreira\source\repos\Lista04-Metodos e Funcoes\Lista04-Ex09-Volume\bin\Debug\net6.0\Lista04-Ex09-Volume.pdb
+C:\Users\jmoreira\source\repos\Lista04-Metodos e Funcoes\Lista04-Ex09-Volume\obj\Debug\net6.0\Lista04-Ex09-Volume.csproj.AssemblyReference.cache
+C:\Users\jmoreira\source\repos\Lista04-Metodos e Funcoes\Lista04-Ex09-Volume\obj\Debug\net6.0\Lista04-Ex09-Volume.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmoreira\source\repos\Lista04-Metodos e Funcoes\Lista04-Ex09-Volume\obj\Debug\net6.0\Lista04-Ex09-Volume.AssemblyInfoInputs.cache
+C:\Users\jmoreira\source\repos\Lista04-Metodos e Funcoes\Lista04-Ex09-Volume\obj\Debug\net6.0\Lista04-Ex09-Volume.AssemblyInfo.cs
+C:\Users\jmoreira\source\repos\Lista04-Metodos e Funcoes\Lista04-Ex09-Volume\obj\Debug\net6.0\Lista04-Ex09-Volume.csproj.CoreCompileInputs.cache
+C:\Users\jmoreira\source\repos\Lista04-Metodos e Funcoes\Lista04-Ex09-Volume\obj\Debug\net6.0\Lista04-Ex09-Volume.dll
+C:\Users\jmoreira\source\repos\Lista04-Metodos e Funcoes\Lista04-Ex09-Volume\obj\Debug\net6.0\refint\Lista04-Ex09-Volume.dll
+C:\Users\jmoreira\source\repos\Lista04-Metodos e Funcoes\Lista04-Ex09-Volume\obj\Debug\net6.0\Lista04-Ex09-Volume.pdb
+C:\Users\jmoreira\source\repos\Lista04-Metodos e Funcoes\Lista04-Ex09-Volume\obj\Debug\net6.0\Lista04-Ex09-Volume.genruntimeconfig.cache
+C:\Users\jmoreira\source\repos\Lista04-Metodos e Funcoes\Lista04-Ex09-Volume\obj\Debug\net6.0\ref\Lista04-Ex09-Volume.dll
