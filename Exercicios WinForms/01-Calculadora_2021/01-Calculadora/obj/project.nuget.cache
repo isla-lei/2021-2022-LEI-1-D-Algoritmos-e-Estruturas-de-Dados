@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BAZkpek7q0pvaPWjRMcnrUNNiO6cIWXKF8SnOE0yopVMKrVBFz4Dmpo//wT4Fi0FnJfFb6E7+R6U1e7RPrw3Ng==",
+  "success": true,
+  "projectFilePath": "C:\\Documentos JJM\\ISLA-IPGT\\Aulas 2021-2022\\LIC-SEM2\\LEI-Algoritmos e Estruturas de Dados\\exercicios\\01-Calculadora_2021\\01-Calculadora\\01-Calculadora.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jjmor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

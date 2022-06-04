@@ -1,0 +1,54 @@
+C:\Users\jjmor\source\repos\01-Calculadora\01-Calculadora\bin\Debug\net5.0-windows\01-Calculadora.exe
+C:\Users\jjmor\source\repos\01-Calculadora\01-Calculadora\bin\Debug\net5.0-windows\01-Calculadora.deps.json
+C:\Users\jjmor\source\repos\01-Calculadora\01-Calculadora\bin\Debug\net5.0-windows\01-Calculadora.runtimeconfig.json
+C:\Users\jjmor\source\repos\01-Calculadora\01-Calculadora\bin\Debug\net5.0-windows\01-Calculadora.runtimeconfig.dev.json
+C:\Users\jjmor\source\repos\01-Calculadora\01-Calculadora\bin\Debug\net5.0-windows\01-Calculadora.dll
+C:\Users\jjmor\source\repos\01-Calculadora\01-Calculadora\bin\Debug\net5.0-windows\ref\01-Calculadora.dll
+C:\Users\jjmor\source\repos\01-Calculadora\01-Calculadora\bin\Debug\net5.0-windows\01-Calculadora.pdb
+C:\Users\jjmor\source\repos\01-Calculadora\01-Calculadora\obj\Debug\net5.0-windows\01-Calculadora.csprojAssemblyReference.cache
+C:\Users\jjmor\source\repos\01-Calculadora\01-Calculadora\obj\Debug\net5.0-windows\_01_Calculadora.Form1.resources
+C:\Users\jjmor\source\repos\01-Calculadora\01-Calculadora\obj\Debug\net5.0-windows\01-Calculadora.csproj.GenerateResource.cache
+C:\Users\jjmor\source\repos\01-Calculadora\01-Calculadora\obj\Debug\net5.0-windows\01-Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jjmor\source\repos\01-Calculadora\01-Calculadora\obj\Debug\net5.0-windows\01-Calculadora.AssemblyInfoInputs.cache
+C:\Users\jjmor\source\repos\01-Calculadora\01-Calculadora\obj\Debug\net5.0-windows\01-Calculadora.AssemblyInfo.cs
+C:\Users\jjmor\source\repos\01-Calculadora\01-Calculadora\obj\Debug\net5.0-windows\01-Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\jjmor\source\repos\01-Calculadora\01-Calculadora\obj\Debug\net5.0-windows\01-Calculadora.dll
+C:\Users\jjmor\source\repos\01-Calculadora\01-Calculadora\obj\Debug\net5.0-windows\ref\01-Calculadora.dll
+C:\Users\jjmor\source\repos\01-Calculadora\01-Calculadora\obj\Debug\net5.0-windows\01-Calculadora.pdb
+C:\Users\jjmor\source\repos\01-Calculadora\01-Calculadora\obj\Debug\net5.0-windows\01-Calculadora.genruntimeconfig.cache
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\bin\Debug\net5.0-windows\01-Calculadora.exe
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\bin\Debug\net5.0-windows\01-Calculadora.deps.json
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\bin\Debug\net5.0-windows\01-Calculadora.runtimeconfig.json
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\bin\Debug\net5.0-windows\01-Calculadora.runtimeconfig.dev.json
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\bin\Debug\net5.0-windows\01-Calculadora.dll
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\bin\Debug\net5.0-windows\ref\01-Calculadora.dll
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\bin\Debug\net5.0-windows\01-Calculadora.pdb
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\obj\Debug\net5.0-windows\01-Calculadora.csprojAssemblyReference.cache
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\obj\Debug\net5.0-windows\_01_Calculadora.FormCalc.resources
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\obj\Debug\net5.0-windows\01-Calculadora.csproj.GenerateResource.cache
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\obj\Debug\net5.0-windows\01-Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\obj\Debug\net5.0-windows\01-Calculadora.AssemblyInfoInputs.cache
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\obj\Debug\net5.0-windows\01-Calculadora.AssemblyInfo.cs
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\obj\Debug\net5.0-windows\01-Calculadora.csproj.CoreCompileInputs.cache
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\obj\Debug\net5.0-windows\01-Calculadora.dll
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\obj\Debug\net5.0-windows\ref\01-Calculadora.dll
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\obj\Debug\net5.0-windows\01-Calculadora.pdb
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\obj\Debug\net5.0-windows\01-Calculadora.genruntimeconfig.cache
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\bin\Debug\net5.0-windows\01-Calculadora.exe
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\bin\Debug\net5.0-windows\01-Calculadora.deps.json
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\bin\Debug\net5.0-windows\01-Calculadora.runtimeconfig.json
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\bin\Debug\net5.0-windows\01-Calculadora.runtimeconfig.dev.json
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\bin\Debug\net5.0-windows\01-Calculadora.dll
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\bin\Debug\net5.0-windows\01-Calculadora.pdb
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\obj\Debug\net5.0-windows\01-Calculadora.csproj.AssemblyReference.cache
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\obj\Debug\net5.0-windows\_01_Calculadora.FormCalc.resources
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\obj\Debug\net5.0-windows\01-Calculadora.csproj.GenerateResource.cache
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\obj\Debug\net5.0-windows\01-Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\obj\Debug\net5.0-windows\01-Calculadora.AssemblyInfoInputs.cache
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\obj\Debug\net5.0-windows\01-Calculadora.AssemblyInfo.cs
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\obj\Debug\net5.0-windows\01-Calculadora.csproj.CoreCompileInputs.cache
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\obj\Debug\net5.0-windows\01-Calculadora.dll
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\obj\Debug\net5.0-windows\refint\01-Calculadora.dll
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\obj\Debug\net5.0-windows\01-Calculadora.pdb
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\obj\Debug\net5.0-windows\01-Calculadora.genruntimeconfig.cache
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\01-Calculadora_2021\01-Calculadora\obj\Debug\net5.0-windows\ref\01-Calculadora.dll
