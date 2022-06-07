@@ -4,8 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ordenacao
-{
     class ClassOrdenacao
     {
         /// <summary>
@@ -507,4 +505,4 @@ namespace Ordenacao
         }
 
     } // Class
-}
+
