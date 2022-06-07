@@ -1,0 +1,72 @@
+C:\Users\jjmor\source\repos\Pesquisa_Selecao\Pesquisa_Selecao\bin\Debug\net5.0-windows\Pesquisa_Selecao.exe
+C:\Users\jjmor\source\repos\Pesquisa_Selecao\Pesquisa_Selecao\bin\Debug\net5.0-windows\Pesquisa_Selecao.deps.json
+C:\Users\jjmor\source\repos\Pesquisa_Selecao\Pesquisa_Selecao\bin\Debug\net5.0-windows\Pesquisa_Selecao.runtimeconfig.json
+C:\Users\jjmor\source\repos\Pesquisa_Selecao\Pesquisa_Selecao\bin\Debug\net5.0-windows\Pesquisa_Selecao.runtimeconfig.dev.json
+C:\Users\jjmor\source\repos\Pesquisa_Selecao\Pesquisa_Selecao\bin\Debug\net5.0-windows\Pesquisa_Selecao.dll
+C:\Users\jjmor\source\repos\Pesquisa_Selecao\Pesquisa_Selecao\bin\Debug\net5.0-windows\ref\Pesquisa_Selecao.dll
+C:\Users\jjmor\source\repos\Pesquisa_Selecao\Pesquisa_Selecao\bin\Debug\net5.0-windows\Pesquisa_Selecao.pdb
+C:\Users\jjmor\source\repos\Pesquisa_Selecao\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.csprojAssemblyReference.cache
+C:\Users\jjmor\source\repos\Pesquisa_Selecao\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.Form1.resources
+C:\Users\jjmor\source\repos\Pesquisa_Selecao\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.csproj.GenerateResource.cache
+C:\Users\jjmor\source\repos\Pesquisa_Selecao\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jjmor\source\repos\Pesquisa_Selecao\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.AssemblyInfoInputs.cache
+C:\Users\jjmor\source\repos\Pesquisa_Selecao\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.AssemblyInfo.cs
+C:\Users\jjmor\source\repos\Pesquisa_Selecao\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.csproj.CoreCompileInputs.cache
+C:\Users\jjmor\source\repos\Pesquisa_Selecao\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.dll
+C:\Users\jjmor\source\repos\Pesquisa_Selecao\Pesquisa_Selecao\obj\Debug\net5.0-windows\ref\Pesquisa_Selecao.dll
+C:\Users\jjmor\source\repos\Pesquisa_Selecao\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.pdb
+C:\Users\jjmor\source\repos\Pesquisa_Selecao\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.genruntimeconfig.cache
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\Pesquisa_Selecao\Pesquisa_Selecao\bin\Debug\net5.0-windows\Pesquisa_Selecao.exe
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\Pesquisa_Selecao\Pesquisa_Selecao\bin\Debug\net5.0-windows\Pesquisa_Selecao.deps.json
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\Pesquisa_Selecao\Pesquisa_Selecao\bin\Debug\net5.0-windows\Pesquisa_Selecao.runtimeconfig.json
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\Pesquisa_Selecao\Pesquisa_Selecao\bin\Debug\net5.0-windows\Pesquisa_Selecao.runtimeconfig.dev.json
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\Pesquisa_Selecao\Pesquisa_Selecao\bin\Debug\net5.0-windows\Pesquisa_Selecao.dll
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\Pesquisa_Selecao\Pesquisa_Selecao\bin\Debug\net5.0-windows\ref\Pesquisa_Selecao.dll
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\Pesquisa_Selecao\Pesquisa_Selecao\bin\Debug\net5.0-windows\Pesquisa_Selecao.pdb
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\Pesquisa_Selecao\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.csprojAssemblyReference.cache
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\Pesquisa_Selecao\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.Form1.resources
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\Pesquisa_Selecao\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.csproj.GenerateResource.cache
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\Pesquisa_Selecao\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\Pesquisa_Selecao\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.AssemblyInfoInputs.cache
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\Pesquisa_Selecao\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.AssemblyInfo.cs
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\Pesquisa_Selecao\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.csproj.CoreCompileInputs.cache
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\Pesquisa_Selecao\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.dll
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\Pesquisa_Selecao\Pesquisa_Selecao\obj\Debug\net5.0-windows\ref\Pesquisa_Selecao.dll
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\Pesquisa_Selecao\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.pdb
+C:\Documentos JJM\ISLA-IPGT\Aulas 2020-2021\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\Pesquisa_Selecao\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.genruntimeconfig.cache
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\02-Pesquisa_Selecao\Pesquisa_Selecao\bin\Debug\net5.0-windows\Pesquisa_Selecao.exe
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\02-Pesquisa_Selecao\Pesquisa_Selecao\bin\Debug\net5.0-windows\Pesquisa_Selecao.deps.json
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\02-Pesquisa_Selecao\Pesquisa_Selecao\bin\Debug\net5.0-windows\Pesquisa_Selecao.runtimeconfig.json
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\02-Pesquisa_Selecao\Pesquisa_Selecao\bin\Debug\net5.0-windows\Pesquisa_Selecao.runtimeconfig.dev.json
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\02-Pesquisa_Selecao\Pesquisa_Selecao\bin\Debug\net5.0-windows\Pesquisa_Selecao.dll
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\02-Pesquisa_Selecao\Pesquisa_Selecao\bin\Debug\net5.0-windows\Pesquisa_Selecao.pdb
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\02-Pesquisa_Selecao\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.csproj.AssemblyReference.cache
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\02-Pesquisa_Selecao\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.Form1.resources
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\02-Pesquisa_Selecao\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.csproj.GenerateResource.cache
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\02-Pesquisa_Selecao\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\02-Pesquisa_Selecao\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.AssemblyInfoInputs.cache
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\02-Pesquisa_Selecao\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.AssemblyInfo.cs
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\02-Pesquisa_Selecao\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.csproj.CoreCompileInputs.cache
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\02-Pesquisa_Selecao\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.dll
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\02-Pesquisa_Selecao\Pesquisa_Selecao\obj\Debug\net5.0-windows\refint\Pesquisa_Selecao.dll
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\02-Pesquisa_Selecao\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.pdb
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\02-Pesquisa_Selecao\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.genruntimeconfig.cache
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\02-Pesquisa_Selecao\Pesquisa_Selecao\obj\Debug\net5.0-windows\ref\Pesquisa_Selecao.dll
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\04-Pesquisa_Selecao - Aula\Pesquisa_Selecao\bin\Debug\net5.0-windows\Pesquisa_Selecao.exe
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\04-Pesquisa_Selecao - Aula\Pesquisa_Selecao\bin\Debug\net5.0-windows\Pesquisa_Selecao.deps.json
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\04-Pesquisa_Selecao - Aula\Pesquisa_Selecao\bin\Debug\net5.0-windows\Pesquisa_Selecao.runtimeconfig.json
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\04-Pesquisa_Selecao - Aula\Pesquisa_Selecao\bin\Debug\net5.0-windows\Pesquisa_Selecao.runtimeconfig.dev.json
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\04-Pesquisa_Selecao - Aula\Pesquisa_Selecao\bin\Debug\net5.0-windows\Pesquisa_Selecao.dll
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\04-Pesquisa_Selecao - Aula\Pesquisa_Selecao\bin\Debug\net5.0-windows\Pesquisa_Selecao.pdb
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\04-Pesquisa_Selecao - Aula\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.csproj.AssemblyReference.cache
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\04-Pesquisa_Selecao - Aula\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.Form1.resources
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\04-Pesquisa_Selecao - Aula\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.csproj.GenerateResource.cache
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\04-Pesquisa_Selecao - Aula\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\04-Pesquisa_Selecao - Aula\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.AssemblyInfoInputs.cache
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\04-Pesquisa_Selecao - Aula\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.AssemblyInfo.cs
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\04-Pesquisa_Selecao - Aula\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.csproj.CoreCompileInputs.cache
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\04-Pesquisa_Selecao - Aula\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.dll
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\04-Pesquisa_Selecao - Aula\Pesquisa_Selecao\obj\Debug\net5.0-windows\refint\Pesquisa_Selecao.dll
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\04-Pesquisa_Selecao - Aula\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.pdb
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\04-Pesquisa_Selecao - Aula\Pesquisa_Selecao\obj\Debug\net5.0-windows\Pesquisa_Selecao.genruntimeconfig.cache
+C:\Documentos JJM\ISLA-IPGT\Aulas 2021-2022\LIC-SEM2\LEI-Algoritmos e Estruturas de Dados\exercicios\04-Pesquisa_Selecao - Aula\Pesquisa_Selecao\obj\Debug\net5.0-windows\ref\Pesquisa_Selecao.dll
